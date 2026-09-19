@@ -92,3 +92,9 @@ GitHub: [@Scarlet-Twinz](https://github.com/Scarlet-Twinz)
 ---
 
 This README describes the current implementation rather than planned or placeholder features.
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/my-dad-business
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
