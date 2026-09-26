@@ -1,4 +1,4 @@
-#  Twins Kitchen and Bakery World
+# Twins Kitchen and Bakery World
 
 A simple static business website created for **Twins Kitchen and Bakery World** to present the business, showcase available equipment and products, and provide a direct WhatsApp contact option for customers.
 
