@@ -1,100 +1,39 @@
-# Twins Kitchen and Bakery World
+# Twins Kitchen — Legacy Storefront Prototype
 
-A simple static business website created for **Twins Kitchen and Bakery World** to present the business, showcase available equipment and products, and provide a direct WhatsApp contact option for customers.
+An early static website created for Twins Kitchen and Bakery World to introduce the business, showcase selected kitchen and bakery equipment, and provide direct WhatsApp contact.
 
-## Overview
+## Current status
 
-The current project is a lightweight single-page website built with plain HTML. It includes:
+This is a legacy, single-page HTML prototype. It has no application backend, database, or build system.
 
-- Business welcome section
-- Short description of the business
-- Product/equipment list
-- Business images
-- About section
-- Phone contact information
-- Direct WhatsApp contact link
+The current catalogue/storefront project is maintained in the [Twins Kitchen and Bakery World repository](https://github.com/Scarlet-Twinz/TWINS-KITCHEN-AND-BAKERY-WORLD).
 
-## Products Showcased
+## Contents
 
-The page currently lists equipment and related products including:
+- Business introduction and product highlights
+- Business photographs
+- Contact and WhatsApp links
+- Inline CSS within the HTML page
 
-- Pure water machines
-- Shawarma machines
-- Industrial blenders
-- Supermarket shelves
-- Industrial gas cookers
-- Industrial and local ovens
-- Industrial bread mixing machines
-- Ice-cream machines
-- Feather removers
-- Chicken cutters
-- Popcorn machines
-- Food warmers
-- Food extractors
-- Snack warmers
-
-## Tech Stack
-
-- **HTML5** — page structure and content
-- **Inline CSS** — basic layout and styling
-- **WhatsApp link** — direct customer contact
-
-No framework, package manager, backend, or database is required for the current version.
-
-## Project Structure
-
-```text
-my-dad-business/
-├── index.html
-├── shop.jpeg
-├── shop(2).jpeg
-├── shop(3).jpeg
-├── shop(4).jpeg
-├── shop(5).jpeg
-├── shop(6).jpeg
-├── my dad business/
-└── README.md
-```
-
-## Run Locally
-
-Clone the repository:
+## Run locally
 
 ```bash
 git clone https://github.com/Scarlet-Twinz/my-dad-business.git
 cd my-dad-business
 ```
 
-Then open `index.html` directly in a web browser.
-
-Alternatively, if Python is installed, run a simple local server:
+Open `index.html` in a browser. Alternatively, run:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then open `http://localhost:8000` in your browser.
+Then visit [http://localhost:8000](http://localhost:8000).
 
-## Contact
+## Scope
 
-The website includes a phone number and a WhatsApp link for contacting the business directly.
+This repository documents the original static prototype, not the current full catalogue implementation or a backend-connected commerce system.
 
-## Deployment
+## Repository
 
-No public deployment URL is documented for this repository at the moment. The project can be hosted as a static website on a suitable static hosting service when needed.
-
-## Author
-
-**Anthony Emmanuella Mmasinachi**
-
-GitHub: [@Scarlet-Twinz](https://github.com/Scarlet-Twinz)
-
----
-
-This README describes the current implementation rather than planned or placeholder features.
-
-## Project Links
-
-- **Repository:** https://github.com/Scarlet-Twinz/my-dad-business
-- **Author:** Anthony Emmanuella Mmasinachi
-- **GitHub:** https://github.com/Scarlet-Twinz
+[Scarlet-Twinz/my-dad-business](https://github.com/Scarlet-Twinz/my-dad-business)
